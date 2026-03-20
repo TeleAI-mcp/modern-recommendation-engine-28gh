@@ -1,2 +1,3 @@
-# modern-recommendation-engine-28gh
-AI-powered recommendation system for modern development workflows
+# Modern Recommendation Engine 28Gh
+
+A AI-powered recommendation system for modern development workflows.
